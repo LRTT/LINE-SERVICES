@@ -15,23 +15,19 @@ LINE's thrift
 - [ ] Coin Service
 - [ ] Deprecated Unified ShopService
 - [ ] External Interlock Service
-<!---just
-- [ ] Fake HomeV2 Notification Center Client
---->
+- [ ] ~~Fake Home V2 Notification Center Client~~
 - [ ] Home Flex Service
 - [ ] Legacy Call Service
 - [ ] Legacy Talk Service
 - [ ] Liff Service
-- [ ] Line HomeV2 Services
-<!---just
-- [ ] Line HomeV2 Services Mock
---->
+- [ ] Line Home V2 Services
+- [ ] ~~Line Home V2 Services Mock~~
 - [ ] Payment Service
 - [ ] Persona Service
 - [ ] Point Service
 - [ ] Primary Account Init Service
 - [ ] Search Service
-- [ ] Secondary QrCode Login Permit Service
+- [ ] Secondary Qr Code Login Permit Service
 - [ ] Shop Auth Service
 - [ ] Shop Service
 - [ ] Sns Adaptor Service
